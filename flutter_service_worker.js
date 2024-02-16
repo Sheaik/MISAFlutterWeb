@@ -3,8 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"404.html": "0a27a4163254fc8fce870c8cc3a3f94f",
-"assets/AssetManifest.bin": "ebf8fcf818bbcb3a6206c11fde3d1185",
+const RESOURCES = {"assets/AssetManifest.bin": "ebf8fcf818bbcb3a6206c11fde3d1185",
 "assets/AssetManifest.bin.json": "d7e0e5daae8ce5fcd9585368bb24f485",
 "assets/AssetManifest.json": "dfaa2f37013c6814d6db6f33d5562b3a",
 "assets/assets/fonts/Urbanist-Bold.ttf": "1ffe51e22e7841c65481a727515e2198",
@@ -81,9 +80,9 @@ const RESOURCES = {"404.html": "0a27a4163254fc8fce870c8cc3a3f94f",
 "icons/ms-icon-310x310.png": "acbef2969a1d7603637cd4cc4ff814a0",
 "icons/ms-icon-70x70.png": "c2be0e478930a3b9aeb5b3a24847c1ed",
 "icons/mstile-150x150.png": "f8fed918dd67b7ebae63cbbfa9321ee8",
-"index.html": "393f55b89809fdb97e727055bd8fbf4b",
-"/": "393f55b89809fdb97e727055bd8fbf4b",
-"main.dart.js": "6527d935eacdfca323945946824476ea",
+"index.html": "bb3bf702c228ad22b2cf4c2a52929974",
+"/": "bb3bf702c228ad22b2cf4c2a52929974",
+"main.dart.js": "d766527e23758739c7748eec05fcb076",
 "manifest.json": "1c1d5a16006780ff9685a85ec39a4b54",
 "version.json": "941380360773d7127af0b17995a184a7"};
 // The application shell files that are downloaded before a service worker can
