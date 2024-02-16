@@ -80,8 +80,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "ebf8fcf818bbcb3a6206c11fde3d1185
 "icons/ms-icon-310x310.png": "acbef2969a1d7603637cd4cc4ff814a0",
 "icons/ms-icon-70x70.png": "c2be0e478930a3b9aeb5b3a24847c1ed",
 "icons/mstile-150x150.png": "f8fed918dd67b7ebae63cbbfa9321ee8",
-"index.html": "bb3bf702c228ad22b2cf4c2a52929974",
-"/": "bb3bf702c228ad22b2cf4c2a52929974",
+"index.html": "5e536e17162a3bf5c03343d3277d9a7e",
+"/": "5e536e17162a3bf5c03343d3277d9a7e",
 "main.dart.js": "d766527e23758739c7748eec05fcb076",
 "manifest.json": "1c1d5a16006780ff9685a85ec39a4b54",
 "version.json": "941380360773d7127af0b17995a184a7"};
