@@ -24,7 +24,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "ebf8fcf818bbcb3a6206c11fde3d1185
 "assets/assets/images/usermanager4.png": "667d8c33973cf5abf52ea84d75077159",
 "assets/FontManifest.json": "c36af816dc08f98ac421ad54e9173a2e",
 "assets/fonts/MaterialIcons-Regular.otf": "06a5f25c06433ab0a8f313d9a482fcac",
-"assets/NOTICES": "1a49eeb8d275af015c10393ba1f399aa",
+"assets/NOTICES": "b41fbdca23c46be0442acf56d21dbcea",
 "assets/packages/awesome_snackbar_content/assets/back.svg": "ba1c3aebba280f23f5509bd42dab958d",
 "assets/packages/awesome_snackbar_content/assets/bubbles.svg": "1df6817bf509ee4e615fe821bc6dabd9",
 "assets/packages/awesome_snackbar_content/assets/types/failure.svg": "cb9e759ee55687836e9c1f20480dd9c8",
@@ -80,9 +80,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "ebf8fcf818bbcb3a6206c11fde3d1185
 "icons/ms-icon-310x310.png": "acbef2969a1d7603637cd4cc4ff814a0",
 "icons/ms-icon-70x70.png": "c2be0e478930a3b9aeb5b3a24847c1ed",
 "icons/mstile-150x150.png": "f8fed918dd67b7ebae63cbbfa9321ee8",
-"index.html": "5e536e17162a3bf5c03343d3277d9a7e",
-"/": "5e536e17162a3bf5c03343d3277d9a7e",
-"main.dart.js": "d766527e23758739c7748eec05fcb076",
+"index.html": "0169d8cde480040c843083b5cef04af7",
+"/": "0169d8cde480040c843083b5cef04af7",
+"main.dart.js": "f22c4bdc5dcde6aaf8281338ddc0ac47",
 "manifest.json": "1c1d5a16006780ff9685a85ec39a4b54",
 "version.json": "941380360773d7127af0b17995a184a7"};
 // The application shell files that are downloaded before a service worker can
